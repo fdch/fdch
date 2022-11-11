@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Haskell and Java**
 
-- 👨‍💻 All of my projects are available at [https://fdch.github.io](https://fdch.github.io)
+- 👨‍💻 All of my projects are available at [fdch.ar](https://fdch.ar)
 
-- 📝 I regularly write articles on [https://fdch.github.io/blog](https://fdch.github.io/blog)
+- 📝 I regularly write articles on [fdch.ar/blog](https://fdch.ar/blog)
 
 - 💬 Ask me about... **Pure Data** [https://github.com/pure-data], It's my favorite thing
 
 - 📫 How to reach me: **fdch@nyu.edu**
 
-- 📄 Know about my experiences: [https://fdch.github.io/cv](https://fdch.github.io/cv)
+- 📄 Know about my experiences: [fdch.ar/cv](https://fdch.ar/cv)
 
 - ⚡ Fun fact: **I am a ping pong zen master**
 
