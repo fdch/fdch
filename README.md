@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [fdch.ar/blog](https://fdch.ar/blog)
 
-- 💬 Ask me about... **Pure Data** [https://github.com/pure-data], It's my favorite thing
+- 💬 Ask me about... [Pure Data](https://github.com/pure-data), It's my favorite thing
 
-- 📫 How to reach me: **fdch@nyu.edu**
+- 📫 How to reach me: **fdch at nyu dot edu**
 
 - 📄 Know about my experiences: [fdch.ar/cv](https://fdch.ar/cv)
 
