@@ -1,8 +1,2 @@
-Welcome! I'm Federico Camara Halac (fdch)
-- All of my projects are available at https://fdch.ar
-- I regularly write articles on https://fdch.ar/blog
-- My favorite tool: https://github.com/pure-data
-
-Buy me a coffee:
-- https://www.buymeacoffee.com/fdch 
-- https://ko-fi.com/ffddcchh
+Welcome! I'm Federico Camara Halac. Visit my [website](https://fdch.ar) if you want to check out my projects, or my [blog](https://fdch.ar/blog).
+I've been pretty busy working at LanguageTool and then Quillbot for the past 3 years.
